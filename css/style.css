@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+
+
+
+
+header {
+  background-color: #20ac20;
+  color: rgb(231, 20, 168);
+  padding: 10px;
+  text-align: center;
+}
+
+
+
+
+
+
+nav a {
+  color: rgb(187, 24, 24);
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+main {
+  padding: 20px;
+}
+
+
+
+
+form {
+  background: rgb(44, 111, 199);
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+
+
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+
+li {
+  background: rgb(241, 215, 65);
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+}
+
+.completada {
+  text-decoration: line-through;
+  color: rgb(187, 96, 115);
+}
